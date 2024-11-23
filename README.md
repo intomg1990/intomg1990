@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @intomg1990
 - 👀 I’m interested in physics and computer science, specially artificial intelligence.
-- 🌱 I’m currently applying ML in the financial market.
+- 🌱 I’m currently working as a Lead Data Scientist on a big corporation.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me: girotto.matheus@gmail.com
 
